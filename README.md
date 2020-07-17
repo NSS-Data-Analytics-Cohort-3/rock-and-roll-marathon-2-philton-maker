@@ -21,7 +21,7 @@
 6. Scott Wietecha has won the Rock and Roll Marathon for 7 years in a row. Compute and display the difference between Wietecha’s time and the next fastest runner for each year.
 
 #### BONUS: Find the top three marathon runners for 2016, 2017, 2018, and 2019. Remove any duplicates across years (i.e., Scott Wietecha should only be in the list once). How many unique runners finished at one of the top 3 spots in the past 4 races? In how many of the 4 years did each top 3 runner finish? How has each runner’s time changed from year to year?
-
+d
 ##### Create a brief (5 minute) presentation to communicate your findings from this exercise.
 
 
